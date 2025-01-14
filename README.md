@@ -41,6 +41,7 @@ In the cleaning and preparation of this Economic data set, we perform the follow
 
 EDA involved exploring Economic Activities of different Government to find solutions to some of the problems such as:
 
+
 - What is the Sum Rate of Inflation, Unemployment and Government Debt?
 - Which government performs well in terms of GDP?
 - What Government increased its Net Taxes on Products?
