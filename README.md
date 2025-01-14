@@ -44,6 +44,11 @@ In the cleaning and preparation of this Economic data set, we perform the follow
 
 EDA involved exploring Economic Activities of different Government to find solutions to some of the problems such as:
 
+![Sum Inflation, Govt Debt and Unemployment](https://github.com/user-attachments/assets/2fd66626-cba1-420b-a4d2-04f66542d6d0)
+
+![sum of GDP](https://github.com/user-attachments/assets/685f37d9-7bf3-4950-9f8b-9e2388a1aee3)
+
+![Net taxation](https://github.com/user-attachments/assets/535cb453-fc48-4f1b-8e2e-477edf520ab5)
 
 - What is the Sum Rate of Inflation, Unemployment and Government Debt?
 - Which government performs well in terms of GDP?
