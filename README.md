@@ -94,3 +94,4 @@ I have to remove all zero numbers and double figures in the columns because it w
 |Heading1|Heading2|
 |--------|--------|
 |Content1|Content2|
+|Power Query|Excel|
