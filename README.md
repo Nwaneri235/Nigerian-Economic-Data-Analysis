@@ -13,7 +13,10 @@
 - [Limitations](limitations)
 - [Reference](#reference)
 
-### Introduction 
+### Introduction
+
+![Nigeria Economy Dashboard](https://github.com/user-attachments/assets/1ebd9de3-a3fc-46f8-9d5b-83298a28746f)
+
 The Nigerian economy, one of the largest and most diverse in Africa, has undergone significant transformations from 1999 to 2023. This period, marked by the transition from military to civilian rule in 1999, has seen substantial shifts in economic policies, structural reforms, and global economic interactions that have shaped the country’s growth trajectory. This study aims to provide a comprehensive analysis of Nigeria's economic performance from 1999 to 2023, utilizing key data points to explore trends, challenges, and the overall economic outlook. By examining these factors, this work seeks to contribute to a deeper understanding of how the Nigerian economy has navigated its complexities over the last two decades and the outlook for future economic growth.
 
 ### Objective
